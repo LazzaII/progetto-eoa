@@ -1,6 +1,6 @@
 # Progetto di Economia e Organizzazione Aziendale
 
-> Progetto per il corso Economia e Organizzazione Aziendale Web A.A. 22/23 dell'Università di Pisa
+> Progetto per il corso Economia e Organizzazione Aziendale A.A. 22/23 dell'Università di Pisa
 
 Valutazione
 
